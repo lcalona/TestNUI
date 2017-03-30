@@ -1,0 +1,9 @@
+{
+  "type": "UILinkTestScreen",
+  "contents": {
+    "type": "UILink",
+    "id": "testLink",
+    "text": "Link",
+    "link": "https://google.com/"
+  }
+}
